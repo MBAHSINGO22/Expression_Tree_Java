@@ -1,7 +1,7 @@
 # 📝 Expression Tree Java
 
 Implementasi Pohon Ekspresi (Expression Tree) dengan Java
-Proyek pembelajaran Java yang membangun pohon ekspresi dari notasi infix dan menampilkan traversal prefix, infix, dan postfix.
+Proyek Java yang membangun pohon ekspresi dari notasi infix dan menampilkan traversal prefix, infix, dan postfix.
 
 ---
 
