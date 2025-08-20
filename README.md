@@ -35,41 +35,6 @@ Expression_Tree_Java/
 
 ---
 
-## ▶️ Menjalankan Program
-
-### 1. Kloning Repositori
-
-```bash
-git clone https://github.com/MBAHSINGO22/Expression_Tree_Java.git
-cd Expression_Tree_Java
-```
-
-### 2. Pastikan Java Terinstal
-
-```bash
-java -version
-```
-
-Jika belum terinstal, unduh dari [java.com](https://www.java.com).
-
-### 3. Kompilasi dan Jalankan Kode
-
-Pastikan struktur paket dipertahankan.
-
-**Kompilasi:**
-
-```bash
-javac -d bin src/LATIHAN/*.java
-```
-
-**Jalankan:**
-
-```bash
-java -cp bin LATIHAN.MainTree
-```
-
----
-
 ## 🟢 Catatan
 
 * Pastikan Anda memiliki Java Development Kit (JDK) yang terinstal.
