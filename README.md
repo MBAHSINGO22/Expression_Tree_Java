@@ -28,10 +28,9 @@ Proyek ini terdiri dari tiga file Java (**MainTree.java**, **Tree.java**, **Tree
 ```
 Expression_Tree_Java/
 ├── src/LATIHAN/
-│   ├── MainTree.java            # 🛠️ Kelas utama untuk pengujian
-│   ├── Tree.java                # 🔍 Kelas untuk pohon ekspresi dan traversal
-│   ├── TreeNode.java            # 📊 Kelas node pohon
-├── README.md                    # 📖 Dokumentasi proyek
+├── MainTree.java            # 🛠️ Kelas utama untuk pengujian
+├── Tree.java                # 🔍 Kelas untuk pohon ekspresi dan traversal
+├── TreeNode.java            # 📊 Kelas node pohon
 ```
 
 ---
