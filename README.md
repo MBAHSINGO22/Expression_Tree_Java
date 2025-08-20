@@ -7,7 +7,7 @@ Proyek Java yang membangun pohon ekspresi dari notasi infix dan menampilkan trav
 
 ## 📖 Deskripsi Proyek
 
-**Expression\_Tree\_Java** adalah proyek pembelajaran Java yang mengimplementasikan pohon ekspresi untuk mengevaluasi ekspresi matematika sederhana. Proyek ini berfokus pada:
+**Expression_Tree_Java** adalah proyek Java yang mengimplementasikan pohon ekspresi untuk mengevaluasi ekspresi matematika sederhana. Proyek ini berfokus pada:
 
 * 📊 **TreeNode.java**: Kelas dasar untuk node pohon dengan data karakter, left node, dan right node.
 * 🔍 **Tree.java**: Kelas utama untuk membangun pohon ekspresi dari notasi infix menggunakan stack, serta traversal (prefix, infix, postfix).
