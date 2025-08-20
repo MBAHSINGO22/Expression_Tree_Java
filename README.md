@@ -37,10 +37,8 @@ Expression_Tree_Java/
 
 ## 🟢 Catatan
 
-* Pastikan Anda memiliki Java Development Kit (JDK) yang terinstal.
 * Program menerima ekspresi infix dengan tanda kurung dan operator dasar (+, -, \*, /).
 * Traversals mencetak hasil dengan spasi, sesuai dengan struktur pohon yang dibangun.
-* Tidak ada dependensi eksternal; gunakan pustaka standar Java.
 
 ---
 
