@@ -13,7 +13,7 @@ Proyek Java yang membangun pohon ekspresi dari notasi infix dan menampilkan trav
 * 🔍 **Tree.java**: Kelas utama untuk membangun pohon ekspresi dari notasi infix menggunakan stack, serta traversal (prefix, infix, postfix).
 * 🛠️ **MainTree.java**: Kelas utama untuk menguji pohon ekspresi dengan contoh ekspresi `(a+b)*(c-d)`.
 
-Proyek ini terdiri dari tiga file Java (**MainTree.java**, **Tree.java**, **TreeNode.java**) dalam paket `LATIHAN`. Cocok untuk pemula yang ingin mempelajari struktur data pohon dan algoritma traversal. 🟢
+Proyek ini terdiri dari tiga file Java (**MainTree.java**, **Tree.java**, **TreeNode.java**) dalam paket `LATIHAN`. 🟢
 
 ---
 
